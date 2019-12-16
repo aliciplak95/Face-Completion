@@ -7,7 +7,7 @@ Yapay sinir ağlarına verilen verilerde görüntünün hem eksik hem de tam ola
 Sinir ağının eğitiminde 2000 görüntü kullanılmıştır.
 
 ## Model Test Süreci
-Eğitilen modele giriş görüntüsü olarak belli bir kısmı kesilmiş görüntü verilmiştir. Model girdi görüntüyü belli kıstaslar kullanarak,
+Eğitilen modele giriş görüntüsü olarak belli bir kısmı kesilmiş görüntü verilmiştir. Model girdi görüntüyü belli özellikler kullanarak,
 daha önce veri setinde bulunan görüntüleri de temel alarak girdi görüntüsündeki eksik parça tespit edip,ten rengi,göz ve saç rengi gibi
 özellikleri baz alarak tamamlamaktadır.
 
