@@ -4,8 +4,7 @@
 
 Projede hedeflenen,bir resimde insan görüntüsün deki eksik yüzlerin GAN kullanarak tamamlanmasıdır.
 Yapay sinir ağlarına verilen verilerde görüntünün hem eksik hem de tam olarak yüzünün göründüğü resimler kullanılmıştır.
-Sinir ağının eğitiminde 2000'e yakın GAN ile çizilmiş gerçeğe yakın insan görüntüsü kullanılmıştır. 
-Kullanılan resimer gerçek insan resmi değildir.
+Sinir ağının eğitiminde 2000 görüntü kullanılmıştır.
 
 ## Model Test Süreci
 Eğitilen modele giriş görüntüsü olarak belli bir kısmı kesilmiş görüntü verilmiştir. Model girdi görüntüyü belli kıstaslar kullanarak,
